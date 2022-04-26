@@ -1,3 +1,5 @@
 # CCH_Si
 
-# Utilizando Pandas
+Algoritmo de recomendação de compras para a matéria de Sistemas inteligente aplicados.
+
+Utilizando Pandas
